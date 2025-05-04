@@ -7,7 +7,7 @@ GitHub: [https://github.com/erkdgn/AppImage-Manager](https://github.com/erkdgn/A
 
 ## English
 
-**AppImage Installer** is a simple graphical tool to install, manage, edit, and remove AppImage applications on your Linux system. It allows you to:
+**AppImage Manager** is a simple graphical tool to install, manage, edit, and remove AppImage applications on your Linux system. It allows you to:
 
 - Add new AppImage applications with custom name and icon
 - List all installed applications
@@ -17,7 +17,7 @@ GitHub: [https://github.com/erkdgn/AppImage-Manager](https://github.com/erkdgn/A
 
 ### Features
 - No root required (everything is installed in your home directory)
-- Simple and modern GTK arayüz
+- Simple and modern GTK interface
 - Multi-language support (English & Turkish)
 
 ### Installation
